@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/1. Main.unity
+    guid: 441b62d6d264f8b4ba4a26170a546c5d
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/2. LevelSelect.unity
+    guid: f2db5aabfda6a364f98d1a4add7de355
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/3. LevelSelect2.unity
+    guid: 083170f5b8f370f46b4e00455513e909
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/4. LevelSelect3.unity
+    guid: 72b53cdbe827b6f458a717228371e83d
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/1.unity
+    guid: 74c96f9a9f4a7b64b90008d8097dd301
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/2.unity
+    guid: 1d66c6feb65b1aa4980c7cfefaac1365
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/3.unity
+    guid: 70be3b4bb3c4fa84f929a9f676dd9ef3
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/4.unity
+    guid: 20dc8c69b6f874c4f82b0f0a8d581c31
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/5.unity
+    guid: 24bde413daf0376499f6e387dbbe8555
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/6.unity
+    guid: 9bc2f20af9d2d64408fac96c5ad865f2
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/7.unity
+    guid: 251c76d64f6ee33448ee9b0b443b95b4
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/8.unity
+    guid: 0ef49633e1ade2743afe4857ee7cd0b2
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/9.unity
+    guid: 81b920994b4443747b9932547e94dab0
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/10.unity
+    guid: f39e7a68ed8f04348b456149301dfb74
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/11.unity
+    guid: af790976d16747a4a99022fc75ec6d1e
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/12.unity
+    guid: 191f6f4beaf86484aa1ea683a420d8da
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/13.unity
+    guid: 7b2b359d6693b3e42bb8dc5264bd2c8e
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/14.unity
+    guid: 8599b50581d4f7e4287b2801d8a338a4
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/15.unity
+    guid: 55c15ec178702924a9f73be05411f0ab
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/16.unity
+    guid: b875fb92151d8154f8755b5ab1773ed3
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/17.unity
+    guid: 35aea57db65762d4c80ff416651dcd3a
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/18.unity
+    guid: d49840dd1f7b7864994f78e404a5fa55
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/19.unity
+    guid: 29ab561d6e08de943a795af9e64ddb0c
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/20.unity
+    guid: a34c66f6686c5814895d90a977cbba38
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/21.unity
+    guid: ad73b7b75e89dc642a69843c01cc0947
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/22.unity
+    guid: 99330a33a2c8e794eaf76cc1fceca3a2
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/23.unity
+    guid: 0863100000d0fbc44a59f1a81753c1f7
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/24.unity
+    guid: dfd6068ce6e812c44919968d43d327a7
+  - enabled: 1
+    path: Assets/Find 10 Differences/Scenes/Levels/25.unity
+    guid: 839df605eba69984994a131fff4b6431
+  m_configObjects: {}

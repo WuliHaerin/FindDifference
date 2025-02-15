@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\FindDifference\\FindDifference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|d:\\unityproject\\finddifference\\finddifference\\assets\\find 10 differences\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|solutionrelative:assets\\find 10 differences\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|D:\\UnityProject\\FindDifference\\FindDifference\\assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|solutionrelative:assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|D:\\UnityProject\\FindDifference\\FindDifference\\assets\\find 10 differences\\scripts\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|solutionrelative:assets\\find 10 differences\\scripts\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|D:\\UnityProject\\FindDifference\\FindDifference\\assets\\find 10 differences\\scripts\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|solutionrelative:assets\\find 10 differences\\scripts\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|D:\\UnityProject\\FindDifference\\FindDifference\\assets\\find 10 differences\\scripts\\openlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBFD9CE-3F05-B7A0-F941-258F566EEAF3}|Assembly-CSharp.csproj|solutionrelative:assets\\find 10 differences\\scripts\\openlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restart.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\Restart.cs",
+              "RelativeDocumentMoniker": "Assets\\Find 10 Differences\\Scripts\\Restart.cs",
+              "ToolTip": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\Restart.cs",
+              "RelativeToolTip": "Assets\\Find 10 Differences\\Scripts\\Restart.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:26:03.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenLevel.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\OpenLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Find 10 Differences\\Scripts\\OpenLevel.cs",
+              "ToolTip": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\OpenLevel.cs",
+              "RelativeToolTip": "Assets\\Find 10 Differences\\Scripts\\OpenLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:53:58.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\Ad\\Ad.cs",
+              "ToolTip": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\Ad\\Ad.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:43:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\Owl.cs",
+              "RelativeDocumentMoniker": "Assets\\Find 10 Differences\\Scripts\\Owl.cs",
+              "ToolTip": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\Owl.cs",
+              "RelativeToolTip": "Assets\\Find 10 Differences\\Scripts\\Owl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:27:52.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Find 10 Differences\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\UnityProject\\FindDifference\\FindDifference\\Assets\\Find 10 Differences\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Find 10 Differences\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvzUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:25:33.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
